@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9F877820-BCE2-4086-8FD6-369EA8DE8E58"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5240C922-57FB-469E-8B90-EEF2E637551B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Spotify-clone/Controllers/Others/SearchResultViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "152"
+            endingLineNumber = "152"
+            landmarkName = "SearchResultViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F0F78E7A-1619-4CCD-ABF6-0BBB5645B30B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Spotify-clone/Controllers/Others/SearchResultViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "153"
+            endingLineNumber = "153"
+            landmarkName = "SearchResultViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1C7D0BB-5453-46B4-8B66-F940BBAB01A1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Spotify-clone/Controllers/Others/Library/LibraryPlaylistsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "updateUI()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C1C7D0BB-5453-46B4-8B66-F940BBAB01A1 - e635ad6dce40ff01"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Spotify_clone.LibraryPlaylistsViewController.updateUI() -&gt; ()"
+                  moduleName = "Spotify-clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rabiehoussaini/Desktop/rabie%20IOS%20projects/Spotify-clone/Spotify-clone/Controllers/Others/Library/LibraryPlaylistsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "452">
+               </Location>
+               <Location
+                  uuid = "C1C7D0BB-5453-46B4-8B66-F940BBAB01A1 - e635ad6dce40ffe2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Spotify_clone.LibraryPlaylistsViewController.updateUI() -&gt; ()"
+                  moduleName = "Spotify-clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rabiehoussaini/Desktop/rabie%20IOS%20projects/Spotify-clone/Spotify-clone/Controllers/Others/Library/LibraryPlaylistsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "280">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "064D1FCC-9844-4F52-A3E7-7AA56BE5D027"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Spotify-clone/Controllers/Others/Library/LibraryAlbumsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "064D1FCC-9844-4F52-A3E7-7AA56BE5D027 - 7e061596aaa3daef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;Spotify_clone.Album&gt;, Swift.Error&gt;) -&gt; () in Spotify_clone.LibraryAlbumsViewController.fetchData() -&gt; ()"
+                  moduleName = "Spotify-clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rabiehoussaini/Desktop/rabie%20IOS%20projects/Spotify-clone/Spotify-clone/Controllers/Others/Library/LibraryAlbumsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "204">
+               </Location>
+               <Location
+                  uuid = "064D1FCC-9844-4F52-A3E7-7AA56BE5D027 - b8c705907b028911"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;Swift.Array&lt;Spotify_clone.Album&gt;, Swift.Error&gt;) -&gt; () in Spotify_clone.LibraryAlbumsViewController.fetchData() -&gt; ()"
+                  moduleName = "Spotify-clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rabiehoussaini/Desktop/rabie%20IOS%20projects/Spotify-clone/Spotify-clone/Controllers/Others/Library/LibraryAlbumsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "064D1FCC-9844-4F52-A3E7-7AA56BE5D027 - bb5e8fa085a0a216"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Spotify_clone.LibraryAlbumsViewController.fetchData() -&gt; ()"
+                  moduleName = "Spotify-clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rabiehoussaini/Desktop/rabie%20IOS%20projects/Spotify-clone/Spotify-clone/Controllers/Others/Library/LibraryAlbumsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "064D1FCC-9844-4F52-A3E7-7AA56BE5D027 - 7e061596aaa3daef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;Spotify_clone.Album&gt;, Swift.Error&gt;) -&gt; () in Spotify_clone.LibraryAlbumsViewController.fetchData() -&gt; ()"
+                  moduleName = "Spotify-clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rabiehoussaini/Desktop/rabie%20IOS%20projects/Spotify-clone/Spotify-clone/Controllers/Others/Library/LibraryAlbumsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "064D1FCC-9844-4F52-A3E7-7AA56BE5D027 - b8c705907b0289f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;Swift.Array&lt;Spotify_clone.Album&gt;, Swift.Error&gt;) -&gt; () in Spotify_clone.LibraryAlbumsViewController.fetchData() -&gt; ()"
+                  moduleName = "Spotify-clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rabiehoussaini/Desktop/rabie%20IOS%20projects/Spotify-clone/Spotify-clone/Controllers/Others/Library/LibraryAlbumsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8755779C-7C9A-414D-A40D-27590FBB1E70"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Spotify-clone/Controllers/Others/Library/LibraryAlbumsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8755779C-7C9A-414D-A40D-27590FBB1E70 - b8c705907b028995"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;Swift.Array&lt;Spotify_clone.Album&gt;, Swift.Error&gt;) -&gt; () in Spotify_clone.LibraryAlbumsViewController.fetchData() -&gt; ()"
+                  moduleName = "Spotify-clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rabiehoussaini/Desktop/rabie%20IOS%20projects/Spotify-clone/Spotify-clone/Controllers/Others/Library/LibraryAlbumsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "8755779C-7C9A-414D-A40D-27590FBB1E70 - b8c705907b028995"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;Swift.Array&lt;Spotify_clone.Album&gt;, Swift.Error&gt;) -&gt; () in Spotify_clone.LibraryAlbumsViewController.fetchData() -&gt; ()"
+                  moduleName = "Spotify-clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rabiehoussaini/Desktop/rabie%20IOS%20projects/Spotify-clone/Spotify-clone/Controllers/Others/Library/LibraryAlbumsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "8755779C-7C9A-414D-A40D-27590FBB1E70 - b8c705907b028995"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;Swift.Array&lt;Spotify_clone.Album&gt;, Swift.Error&gt;) -&gt; () in Spotify_clone.LibraryAlbumsViewController.fetchData() -&gt; ()"
+                  moduleName = "Spotify-clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rabiehoussaini/Desktop/rabie%20IOS%20projects/Spotify-clone/Spotify-clone/Controllers/Others/Library/LibraryAlbumsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "69323153-3750-4916-A7B8-07331F6F252B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Spotify-clone/Controllers/Others/SettingsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "signOutTapped()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
